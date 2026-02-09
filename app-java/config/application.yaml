@@ -1,0 +1,20 @@
+font:
+  size: 24
+
+dictionary:
+  categories:
+    Животные: ["гиппопотам", "носорог", "обезьяна", "крокодил"]
+    Фрукты: ["апельсин", "мандарин", "виноград", "ананас"]
+    Общие слова: ["волокно", "толокно", "программа", "монитор"]
+
+difficulty:
+  levels:
+    easy:
+      displayName: "Легкий"
+      attempts: 8
+    medium:
+      displayName: "Средний"
+      attempts: 6
+    hard:
+      displayName: "Тяжелый"
+      attempts: 4
